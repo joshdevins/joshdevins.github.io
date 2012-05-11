@@ -15,7 +15,7 @@ Children: one, soon two
 
 ## Professional Summary
 
-I'm an engineer and passionate whiteboarder based in Berlin, Germany. I currently work for [Amen](http://www.getamen.com) as a Software Engineer and resident Data Nerd. My focus is on building data-driven features using search, analytics, basic machine learning and lovely APIs. I make software with things I'm keen on: simplicity, agile methodologies and development, openness (people, source and information), parallel and distributed computing, data, messaging, devops, pragmatism, big pictures, interaction, experiences and oh so much more!
+I'm an engineer and passionate whiteboarder based in Berlin, Germany. I currently work for [Amen](http://www.getamen.com) as a Software Engineer and resident Data Nerd. My focus is on building data-driven features using search, analytics, a touch of machine learning and lovely APIs. I make software with things I'm keen on: simplicity, agile methodologies and development, openness (people, source and information), parallel and distributed computing, data, messaging, devops, pragmatism, big pictures, interaction, experiences and oh so much more!
 
 ## Education
 
@@ -29,15 +29,21 @@ BSc in Computer Science, minor in Philosophy
 **Amen Internet GmbH** - Berlin, Germany  
 Software Engineer, Data Nerd
 
-Summary: lorum ipsum
+Summary: Wearing as many hats as there are days in the week, I spend time switching from an all-purpose Ruby developer to Ops engineer and more. When possible, the focus of my work is on problems that could be described as "data problems". This includes search, recommendations, user behavior analysis and integrating external APIs and data sources into the product.
 
 Technology: Ruby, Rails, Goliath, Redis, Memcached, MySQL, nginx, Chef, EngineYard, Amazon Web Services (EC2, EMR, S3)
 
-Detals:
+Details:
 
-  1. lorum ipsum 1
-  1. lorum ipsum 2
+  1. Business dashboards and basic KPI reporting
+  1. Implemented end-to-end search with ElasticSearch for user-generated content
+  1. Maintained and improved federated search component (Goliath/EventMachine) fronting external search APIs for structured data from Freebase, Foursquare, iTunes, Facebook
+  1. Rapid prototyping of features based on basic machine learning and natural language processing (collaborative filtering, latent semantic analysis, named entity extraction)
+  1. Ongoing maintenance and new features on top of Rails and Goliath REST APIs
+  1. Infrastructure management with Chef and EngineYard
+  1. On-call operations duties
 
+---
 
 *September 2010 - September 2011*  
 **Nokia** - Berlin, Germany  
@@ -55,9 +61,9 @@ Details:
   1. Mining, cleaning, parsing of a multitude of activity logs from server-side product components
   1. Data exploration on interesting ways to combine activity and static/reference datasets
   1. Visualization tools for geo-data
-  1. Applying basic machine learning to build interconnected, useful datasets
   1. Team management and hiring responsibilities
 
+---
 
 *December 2008 - September 2010*  
 **Nokia** - Berlin, Germany  
@@ -82,6 +88,7 @@ Details:
   1. R&D on various NoSQL solutions: Cassandra, Voldemort, CouchDB
   1. R&D on various caching solutions: Varnish, Redis
 
+---
 
 *April 2006 - November 2008*  
 **Fiver Media** - Vancouver, B.C.  
@@ -102,6 +109,7 @@ Details:
   1. Disseminated material learned to other team members through blog postings, presentations and R&D work
   1. Previously the lead server developer of Bodog's next-generation gaming platform
 
+---
 
 *May 2004 - April 2006*  
 **ecMarket.com Inc.** - Vancouver, B.C.  
@@ -124,6 +132,7 @@ Details:
   1. Interacted directly via telephone and email with Sun developers to address JXTA P2P network traffic issues, reducing application traffic by over 98% from 1.8GB per day to 19.8MB per day
   1. Participated in creating and updating SR&ED reports to be submitted to the Government of Canada for tax credits
 
+---
 
 *March 2000 - August 2003*  
 **ecMarket.com Inc.** - Vancouver, B.C.  
@@ -140,6 +149,7 @@ Details:
   1. Introduced the Extreme Programming (XP) methodology to the development team and lead the team through its adoption
   1. Took over as the sole developer on a legacy C++ Apache module for auction software
 
+---
 
 *June 1997 - August 1999*  
 **Self employed** - Vancouver, B.C.  
