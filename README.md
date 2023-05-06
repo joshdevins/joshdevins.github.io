@@ -1,3 +1,7 @@
-# joshdevins.github.io
+# Josh Devins
 
-Personal website landing page
+[Web](http://www.joshdevins.com) |
+[Email](mailto:hi@joshdevins.com) |
+[Twitter](https://twitter.com/#!/joshdevins) |
+[LinkedIn](http://www.linkedin.com/in/joshdevins) |
+[GitHub](https://github.com/joshdevins)
